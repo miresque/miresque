@@ -5,7 +5,7 @@ I'm **Mirkan**, a **Software Development** Academy Graduate with a **passion** t
 ### About me 
 
 🔭 I’m currently working on [a Twitch.tv Extension](https://github.com/miresque/champion-tooltips)  
-🌱 I’m currently learning TypeScript <a target="_blank" href="https://www.typescriptlang.org/docs/"> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" width=15 align="bottom" /> </a>  
+🌱 I’m currently learning Next.js  
 📫 How to reach me: [Gmail](mailto:mirkilinc@gmail.com)  
 &emsp14;📍&emsp13; I'm currently based in London, UK  
 ⚡&emsp13;Fun fact: I've hiked 5 Mountains so far and &#161;&#477;s&#592;&#477; &#613;&#647;&#7433;&#653; &#647;x&#477;&#647; u&#653;op-&#477;p&#7433;sdn p&#592;&#477;&#633; u&#592;&#596; I
