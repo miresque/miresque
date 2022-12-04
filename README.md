@@ -4,7 +4,7 @@ I'm **Mirkan**, a **Software Development** Academy Graduate with a **passion** t
 
 ### About me 
 
-🔭 I’m currently working on [a Twitch.tv Extension](https://github.com/miresque/champion-tooltips)  
+🔭 I’m currently developing my [portfolio website(repo link)](https://github.com/miresque/miresque-website) using React, Next.js & Three.js   
 🌱 I’m currently learning Next.js  
 📫 How to reach me: [Gmail](mailto:mirkilinc@gmail.com)  
 &emsp14;📍&emsp13; I'm currently based in London, UK  
